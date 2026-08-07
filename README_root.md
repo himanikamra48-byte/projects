@@ -13,7 +13,6 @@ Data Analyst / Business Analyst portfolio showcasing projects in SQL, Python, st
 | Tourism Package Predictive Modelling | Logistic regression, LDA, Bagging & Random Forest to predict customer purchase likelihood | Python, Scikit-learn |
 | Gem Price Prediction | Linear regression to predict gemstone pricing across multiple variables for profit-maximization | Python, Scikit-learn |
 
-*(Add a short folder + README for each project above, linking here once uploaded.)*
 
 ## Skills
 SQL · Python (Pandas, NumPy) · Power BI (DAX, Power Query, Copilot) · Tableau · Excel (PivotTables, VBA) · Statistics & Hypothesis Testing · Regression & Classification · A/B Testing
