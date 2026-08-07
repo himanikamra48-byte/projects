@@ -30,8 +30,8 @@ Two independent business analytics problems:
 Python · Pandas · NumPy · Matplotlib · Seaborn · Statsmodels · Scikit-learn (PCA) · SciPy
 
 ## Files
-- `advanced_statistics_project.ipynb` — full annotated analysis
+- `advanced statistics project.ipynb` — full analysis
 - `SalaryData.csv`, `Education - Post 12th Standard.csv` — datasets
-- `Advanced_statistics_project.pdf` — formatted business report
+- `Advanced statistics project.pdf` — business report
 
 
